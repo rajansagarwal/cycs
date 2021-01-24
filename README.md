@@ -7,8 +7,8 @@ DISCLAIMER: This is not completed! **It's not my best work, but its honest work.
 
 ## How it was built
 The in-development website was built with...
-[HTML] https://html.spec.whatwg.org/multipage/
-[CSS] https://www.w3.org/Style/CSS/Overview.en.html
-[Vanilla JS] https://www.javascript.com/
-[Bootstrap] https://getbootstrap.com/
-[Jquery] https://jquery.com/
+- [HTML] https://html.spec.whatwg.org/multipage/
+- [CSS] https://www.w3.org/Style/CSS/Overview.en.html
+- [Vanilla JS] https://www.javascript.com/
+- [Bootstrap] https://getbootstrap.com/
+- [Jquery] https://jquery.com/
